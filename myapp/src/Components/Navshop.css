@@ -1,0 +1,39 @@
+.nav_box {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  line-height: 60px;
+}
+
+.my_shop {
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  cursor: pointer;
+}
+
+.cart {
+  cursor: pointer;
+}
+
+.cart span:nth-child(1) {
+  font-size: 2rem;
+  color: rgb(255, 255, 255);
+}
+
+.cart span:nth-child(2) {
+  padding: 0 3px;
+  background-color: red;
+  color: white;
+  font-weight: bolx;
+  border-radius: 8px;
+  position: relative;
+  top: -15px;
+}
+
+.img {
+  width: 10%;
+}

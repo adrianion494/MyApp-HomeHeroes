@@ -1,0 +1,62 @@
+.login{
+    height: calc(100vh-50px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper{
+    width: 60%;
+    height: 75%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+
+.google{
+    background-color: #df4930;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+  }
+
+  .google:hover{
+    background-color: #f69b8a;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .facebook{
+    background-color: #507cc0;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .facebook:hover{
+    background-color: #9fbfee;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .github{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .github:hover{
+    background-color: rgb(105, 105, 105);
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+  }
+
+  .icon{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  
+  
+
+

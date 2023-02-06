@@ -1,0 +1,82 @@
+
+  .Auth-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 70vh;
+  }
+  
+  .Auth-form {
+    width: 420px;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color:#D4E4F7;
+  }
+
+  .Auth-form input {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+    border-style:ridge;
+    border-width: 1px;
+    border-color: black;
+}
+
+.Auth-form label {
+    padding: 10px;
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+}
+  
+  .Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  
+  .Auth-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 24px;
+    color: rgb(34, 34, 34);
+    font-weight: 800;
+  }
+  
+  
+
+  .btn-primary{
+    width: 50%;
+    background: linear-gradient(-45deg, #FDDC22, #23a6d5, #23d5ab);
+    padding: 8px;
+    margin-top: 8px;
+    margin-left: 80px;
+    font-size: 16px;
+  }
+
+  .btn-primary:hover{
+    background: #6cf0c2;
+  }
+
+
+  .d-grid{
+    padding-bottom: 10px;
+  }
+
+  .forgot-password{
+    text-align: right;
+    font-weight: 600;
+  }
+
+  a{
+    color: black;
+  }
+
+  .form-control:hover {
+    background: #6cf0c2;
+  }
+
+  
+  

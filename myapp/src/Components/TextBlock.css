@@ -1,0 +1,22 @@
+.text-block {
+    text-align: center;
+}
+
+.text-block-content {
+    width: 100%;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.text-block-title {
+    color: #000000;
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+}
+
+.text-block-description {
+    font-family: 'Cormorant Garamond', sans-serif;
+    color: #000000;
+    font-size: 20px;
+}

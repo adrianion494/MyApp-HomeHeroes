@@ -1,0 +1,12 @@
+.product-tile {
+    padding: 10px 2%;
+    margin: 1%;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 20px;
+    width: 18%;
+}
+
+.btn-prod {
+    margin: 1%;
+}

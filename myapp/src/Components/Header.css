@@ -1,0 +1,23 @@
+.header-logo {
+    width: 150px;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+.header-nav {
+    float: right;
+    margin: 20px;
+    margin-bottom: 50px;
+}
+
+.header-nav-link {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 35px 20px 35px 20px;
+    display: inline-block;
+    color: #000000;
+}
+
+.header-nav-link:hover {
+    border-bottom: 2px solid #000000;
+}

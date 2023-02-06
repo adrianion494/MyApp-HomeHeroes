@@ -1,0 +1,55 @@
+
+
+.HandmanForm {
+   
+    max-width: 350px;
+    margin: auto;
+    padding-bottom: 25px; 
+}
+
+.H2Form{
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    text-decoration:underline;
+    text-align: center;
+
+}
+
+.HandmanForm input {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+    border-style:ridge;
+    border-width: 1px;
+    border-color: black;
+}
+
+.HandmanForm label {
+    padding: 10px;
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.HandmanForm button {
+    width: 100%;
+    background: linear-gradient(to bottom, #abbaab, #ffffff);
+    padding: 12px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.HandmanForm .result {
+    font-size: 12px;
+    font-weight: bold;
+    font-style: oblique;
+    color: black;
+    text-align: center;
+}
+
+.HandmanForm button:hover {
+    background: #e0eafc;
+  }
+
+
